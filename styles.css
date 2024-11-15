@@ -1,0 +1,16 @@
+body {
+  background: #1C1C1C;
+}
+
+h1, h2 {
+  color: #83a3d6;
+}
+
+ul {
+  color: #94B8f2;
+}
+
+a {
+  color: #bababa;
+  text-decoration: none; 
+}
